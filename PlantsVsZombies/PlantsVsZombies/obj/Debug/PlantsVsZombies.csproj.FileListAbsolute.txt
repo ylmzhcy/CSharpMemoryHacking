@@ -1,0 +1,11 @@
+C:\Users\ByHCY\Desktop\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+C:\Users\ByHCY\Desktop\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\ByHCY\Desktop\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\ByHCY\Desktop\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\PlantsVsZombies.csproj.AssemblyReference.cache
+C:\Users\ByHCY\Desktop\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\PlantsVsZombies.csproj.SuggestedBindingRedirects.cache
+C:\Users\ByHCY\Desktop\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\ByHCY\Desktop\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\ByHCY\Desktop\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\PlantsVsZombies.csproj.GenerateResource.cache
+C:\Users\ByHCY\Desktop\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\PlantsVsZombies.csproj.CoreCompileInputs.cache
+C:\Users\ByHCY\Desktop\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\ByHCY\Desktop\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
