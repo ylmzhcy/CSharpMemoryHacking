@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantsVsZombies", "..\WindowsFormsApplication11\PlantsVsZombies\PlantsVsZombies.csproj", "{FB790184-CA91-4DEA-9497-585F0E17310F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantsVsZombies", "PlantsVsZombies.csproj", "{FB790184-CA91-4DEA-9497-585F0E17310F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {64A989BF-D693-4DBF-90D0-FB9DF79E4808}
+		SolutionGuid = {44A477B2-09BE-4E4F-9C63-86F61A3B9E7E}
 	EndGlobalSection
 EndGlobal
