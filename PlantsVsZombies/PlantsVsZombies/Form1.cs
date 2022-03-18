@@ -36,6 +36,12 @@ namespace WindowsFormsApplication11
         {
             _fonks.ChangeSunCount(Convert.ToInt32(textBox2.Text));
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            _fonks.ConnectMe(textBox1.Text);
+            MessageBox.Show(_fonks.message);
+        }
     }
 
 

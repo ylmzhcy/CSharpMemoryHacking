@@ -1,0 +1,11 @@
+C:\Users\ByHCY\Desktop\MemoryHacking\CSharpMemoryTutorials\EvilDefendersMemory\EvilDefendersMemory\bin\Debug\EvilDefendersMemory.exe.config
+C:\Users\ByHCY\Desktop\MemoryHacking\CSharpMemoryTutorials\EvilDefendersMemory\EvilDefendersMemory\bin\Debug\EvilDefendersMemory.exe
+C:\Users\ByHCY\Desktop\MemoryHacking\CSharpMemoryTutorials\EvilDefendersMemory\EvilDefendersMemory\bin\Debug\EvilDefendersMemory.pdb
+C:\Users\ByHCY\Desktop\MemoryHacking\CSharpMemoryTutorials\EvilDefendersMemory\EvilDefendersMemory\obj\Debug\EvilDefendersMemory.csproj.AssemblyReference.cache
+C:\Users\ByHCY\Desktop\MemoryHacking\CSharpMemoryTutorials\EvilDefendersMemory\EvilDefendersMemory\obj\Debug\EvilDefendersMemory.csproj.SuggestedBindingRedirects.cache
+C:\Users\ByHCY\Desktop\MemoryHacking\CSharpMemoryTutorials\EvilDefendersMemory\EvilDefendersMemory\obj\Debug\EvilDefendersMemory.Form1.resources
+C:\Users\ByHCY\Desktop\MemoryHacking\CSharpMemoryTutorials\EvilDefendersMemory\EvilDefendersMemory\obj\Debug\EvilDefendersMemory.Properties.Resources.resources
+C:\Users\ByHCY\Desktop\MemoryHacking\CSharpMemoryTutorials\EvilDefendersMemory\EvilDefendersMemory\obj\Debug\EvilDefendersMemory.csproj.GenerateResource.cache
+C:\Users\ByHCY\Desktop\MemoryHacking\CSharpMemoryTutorials\EvilDefendersMemory\EvilDefendersMemory\obj\Debug\EvilDefendersMemory.csproj.CoreCompileInputs.cache
+C:\Users\ByHCY\Desktop\MemoryHacking\CSharpMemoryTutorials\EvilDefendersMemory\EvilDefendersMemory\obj\Debug\EvilDefendersMemory.exe
+C:\Users\ByHCY\Desktop\MemoryHacking\CSharpMemoryTutorials\EvilDefendersMemory\EvilDefendersMemory\obj\Debug\EvilDefendersMemory.pdb
