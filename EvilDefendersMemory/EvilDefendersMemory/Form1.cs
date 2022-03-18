@@ -171,32 +171,32 @@ namespace EvilDefendersMemory
         }
 
         #region GetPointerAddrValue
-        private void GetPointerAddr(Int32 addModuleBaseAddr, int off1)
+        private void GetPointerAddrValue(Int32 addModuleBaseAddr, int off1)
         {
             basePtr = dllPtr.ToInt32() + addModuleBaseAddr;
 
             ptrValue = ReadLong(ReadLong(basePtr) + off1);
         }
-        private void GetPointerAddr(Int32 addModuleBaseAddr, int off1, int off2)
+        private void GetPointerAddrValue(Int32 addModuleBaseAddr, int off1, int off2)
         {
             basePtr = dllPtr.ToInt32() + addModuleBaseAddr;
 
             ptrValue = ReadLong(ReadLong(ReadLong(basePtr) + off1) + off2);
         }
-        private void GetPointerAddr(Int32 addModuleBaseAddr, int off1, int off2, int off3)
+        private void GetPointerAddrValue(Int32 addModuleBaseAddr, int off1, int off2, int off3)
         {
             basePtr = dllPtr.ToInt32() + addModuleBaseAddr;
 
             ptrValue = ReadLong(ReadLong(ReadLong(ReadLong(basePtr) + off1) + off2) + off3);
         }
-        private void GetPointerAddr(Int32 addModuleBaseAddr, int off1, int off2, int off3, int off4)
+        private void GetPointerAddrValue(Int32 addModuleBaseAddr, int off1, int off2, int off3, int off4)
         {
 
             basePtr = dllPtr.ToInt32() + addModuleBaseAddr;
 
             ptrValue = ReadLong(ReadLong(ReadLong(ReadLong(ReadLong(basePtr) + off1) + off2) + off3) + off4);
         }
-        private void GetPointerAddr(Int32 addModuleBaseAddr, int off1, int off2, int off3, int off4, int off5)
+        private void GetPointerAddrValue(Int32 addModuleBaseAddr, int off1, int off2, int off3, int off4, int off5)
         {
             basePtr = dllPtr.ToInt32() + addModuleBaseAddr;
 
@@ -245,7 +245,7 @@ namespace EvilDefendersMemory
 
         private void button1_Click(object sender, EventArgs e)
         {
-            GetPointerAddr(0x001F52C4, offset1, offset2, offset3, offset4);
+            GetPointerAddrValue(0x001F52C4, offset1, offset2, offset3, offset4);
             lblGetSunCount.Text = ptrValue.ToString();
         }
 
@@ -262,6 +262,7 @@ namespace EvilDefendersMemory
         private void button2_Click(object sender, EventArgs e)
         {
             WritePointerValue(0x001F52C4, offset1, offset2, offset3, offset4, Convert.ToInt32(txtSunCount.Text));
+            lblGetSunCount.Text = ptrValue.ToString();
         }
     }
 }
